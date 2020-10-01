@@ -19,3 +19,4 @@ def whats_poppin
   puts word
   puts word
 end
+whats_poppin
